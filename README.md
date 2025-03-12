@@ -9,3 +9,5 @@ Poster file for "_Tracking the distance to criticality across the mouse visual c
 🎥: [Youtube summary](https://youtu.be/4_rIMEl-pcU?si=7DGl8hpQ7orZaxCy)
 
 📰: [_The Conversation_ article](https://theconversation.com/crashes-blackouts-and-climate-tipping-points-how-can-we-tell-when-a-system-is-close-to-the-edge-236683)
+
+😎: [Instructions for using RAD in Julia, Matlab, and Python](https://time-series-features.gitbook.io/time-series-analysis-tools/time-series-features/rad)
