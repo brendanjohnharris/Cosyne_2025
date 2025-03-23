@@ -1,5 +1,5 @@
 # Cosyne_2025
-Poster file for "_Tracking the distance to criticality across the mouse visual cortical hierarchy_", presented at Cosyne 2025 in Montreal
+Poster file for "_Tracking the distance to criticality across the mouse visual cortical hierarchy_", presented at Cosyne 2025 in Montreal (Poster [1-117], 27th March)
 
 ## Additional links
 🎓: [_Physical Review X_ journal article](https://doi.org/10.1103/PhysRevX.14.031021)
